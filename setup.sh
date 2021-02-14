@@ -2,4 +2,4 @@
 
 . .env
 
-exercism configure -w /workspaces/exercism -t $EXERCISM_TOKEN
+exercism configure -w /workspace/exercism -t $EXERCISM_TOKEN
